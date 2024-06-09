@@ -1,0 +1,33 @@
+{
+    "NameoftheScheme":"scheme_name",
+    "Fundingby":"funding_by",
+    "SchemeObjective":"scheme_objective",
+    "BeneficiaryCategory":"beneficiary_category",
+    "EligibilityCriteria":"eligibility_criteria",
+    "BenefitsProvided":"benefits_provided",
+    "ApplicationProcess":"application_process",
+    "CategoryofScheme":"category",
+    "ContactOffice":"contact_office",
+    "योजनेचेनांव":"scheme_name",
+    "योजनेचाप्रकार":"funding_by",
+    "योजनेचाउद्देश":"scheme_objective",
+    "योजनाज्याप्रवर्गासाठीलागूआहेत्याचेनांव":"beneficiary_category",
+    "योजनेच्याप्रमुखअटी":"eligibility_criteria",
+    "दिल्याजाणाऱ्यालाभाचेस्वरुप":"benefits_provided",
+    "अर्जकरण्याचीपध्दत":"application_process",
+    "योजनेचीवर्गवारी":"category",
+    "संपर्ककार्यालयाचेनांव":"contact_office",
+  }
+
+{
+  "scheme_name": "अत्याचाराचे बळी ठरणाऱ्या अनुसूचित जाती व अनुसूचित जमातीच्या कुटूंबातील सदस्यांना आर्थिक सहाय्य देण्याची योजना",
+  "funding_by": "राज्य",
+  "scheme_objective": "जातीयतेच्या कारणावरुन अत्याचाराला बळी पडलेल्या अनुसूचित जाती, जमाती सदस्याना अर्थ सहाय्य देऊन त्यांचे पुनर्वसन करणे",
+  "beneficiary_category": "अत्याचाराचे बळी ठरणा-या अनुसूचित जाती व अनुसूचित जमातील पिढीत व्यक्ती",
+  "eligibility_criteria": "जातीयतेच्या कारणावरुन अनुसुचित जाती, अनुसूचित जमातीच्या कुटूंबावर/व्यक्तीवर अत्याचार घडल्यास सदर गुन्हयाची नोंद नागरी हक्क संरक्षण अधिनियम 1955 व(अत्यांचार प्रतिबंधक )अधिनियम 1989 खाली झालेली असल्यास, आवयश्यक त्या गुन्हयात वैधकीय प्रमाणपत्र आवश्यक, सर्व गुन्हयामध्ये जातीचा दाखला आवश्यक",
+  "benefits_provided": "गुन्हयाच्या स्वरुपावरुन अर्थसहाय्य मंजुर करणे.",
+  "application_process": "नागरी हक्क संरक्षण अधिनियम 1955 व(अत्यांचार प्रतिबंधक )अधिनियम 1989 खाली गुन्हा दाखल झाल्याबाबत पोलिस अहवाल सहाय्यक आयुक्त समाज कल्याण यांना प्राप्त झाल्यानंतर जिल्हा अधिकारी यांचे मान्यतेने अर्थसहाय्य मंजुर करण्यात येते.",
+  "category": "सामाजिक सुधारणा",
+  "contact_office": "संबधीत सहाय्यक आयुक्त समाज कल्याण",
+  "url": "https://sjsa.maharashtra.gov.in/en/scheme-category/social-remedies"
+}
